@@ -1,7 +1,7 @@
 # this is the title 
-# then another title
+## then another title
 
-## then title 3
+### then title 3
 
 testing somethings
 
